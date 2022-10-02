@@ -1,0 +1,2 @@
+# Quora-Question-Pairs-Similarity
+Quora Question Pairs Similarity Problem,In this Project i have dealing with the task of pairing up the duplicate questions from quora. More formally, the followings are our problem statements  Identify which questions asked on Quora are duplicates of questions that have already been asked. this could be useful to instantly provide answers to questions that have already been answered. We are tasked with predicting whether a pair of questions are duplicates or not.
